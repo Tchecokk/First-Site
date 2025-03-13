@@ -1,0 +1,33 @@
+body {
+    background-color: #ffe135;
+}
+
+
+.batata {
+    position: relative;
+    width: 360px;
+    height: 280px;
+}
+
+img {
+    position: relative;
+    width: 265px;
+    height: 150px;
+}
+
+.comida {
+    display: inline-block;
+}
+
+.da {
+    color: azure;
+}
+
+div.batn {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p.batn {
+    color: black;
+}
